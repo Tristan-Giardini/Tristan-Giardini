@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋, I'm Tristan Giardini</h1>
 <h3 align="center">A passionate full-stack developer from Montreal, QC</h3>
+<h4 align="center">🎓 I've recently graduated from the Full-Stack Web Development Bootcamp at Concordia University.</h4>
 <img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" alt="Girl in a jacket" width="400" align="right">
 
 <br></br>
 <br></br>
 
-- 🔭 I’m currently working on [CheckPlz](https://github.com/Tristan-Giardini/Check-Plz) and [BathroomsMontreal](https://github.com/Tristan-Giardini/BathroomsMontreal).
+- 🔍 I’m currently working on [CheckPlz](https://github.com/Tristan-Giardini/Check-Plz) and [BathroomsMontreal](https://github.com/Tristan-Giardini/BathroomsMontreal).
 
-- 🌱 I’m currently learning **TypeScript** and **ReactNative**
+- 💡 I’m currently learning **TypeScript** and **ReactNative**
+
+- 👨‍🎤 Fun fact **In my free time I like to make music in my home studio. Check out some of that here:** https://rivalledenvy.bandcamp.com/
 
 - 📫 How to reach me **tristangiardini@gmail.com**
 
-- ⚡ Fun fact **In my free time I like to make music in my home studio. Check out some of that here: https://rivalledenvy.bandcamp.com/**
 
 <p align="left">
 <a href="https://linkedin.com/in/tristangiardini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tristangiardini" height="30" width="40" /></a>
