@@ -10,7 +10,7 @@
 
 - 💡 I’m currently learning **TypeScript** and **ReactNative**
 
-- 👨‍🎤 Fun fact **In my free time I like to make music in my home studio. Check out some of that here:** https://rivalledenvy.bandcamp.com/
+- 👨‍🎤 Fun fact **In my free time I like to make music in my home studio. Check out some of that here: https://rivalledenvy.bandcamp.com/**
 
 - 📫 How to reach me **tristangiardini@gmail.com**
 
