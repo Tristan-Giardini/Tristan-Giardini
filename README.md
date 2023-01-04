@@ -10,7 +10,6 @@
 
 - ⚡ Fun fact **In my free time I like to make music in my home studio. Check out some of that here: https://rivalledenvy.bandcamp.com/**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tristangiardini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tristangiardini" height="30" width="40" /></a>
 </p>
