@@ -7,7 +7,7 @@
 <br></br>
 
 
-- 👨‍💻 I’m currently working on [CheckPlz](https://github.com/Tristan-Giardini/Check-Plz) and [BathroomsMontreal](https://github.com/Tristan-Giardini/BathroomsMontreal).
+- 👨‍💻 I’m currently working on [CheckPlz](https://github.com/Tristan-Giardini/CheckPlz) and [BathroomsMontreal](https://github.com/Tristan-Giardini/BathroomsMontreal).
 
 - 💡 I’m currently learning **TypeScript** and **ReactNative**
 
