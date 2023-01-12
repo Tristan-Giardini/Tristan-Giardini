@@ -9,7 +9,7 @@
 
 - 👨‍💻 I’m currently working on [CheckPlz](https://github.com/Tristan-Giardini/CheckPlz) and [BathroomsMontreal](https://github.com/Tristan-Giardini/BathroomsMontrealV2).
 
-- 💡 I’m currently learning **TypeScript** and **ReactNative**
+- 💡 I’m learning **TypeScript** and **ReactNative**
 
 - 👨‍🎤 Fun fact **In my free time I like to make music in my home studio. Check out some of that here: https://rivalledenvy.bandcamp.com/**
 
