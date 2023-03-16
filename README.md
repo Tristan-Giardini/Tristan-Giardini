@@ -15,10 +15,6 @@
 - 📫 How to reach me **tristangiardini@gmail.com**
 
 
-<p align="left">
-<a href="https://linkedin.com/in/tristangiardini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tristangiardini" height="30" width="40" /></a>
-</p>
-
 
 <br></br>
 <h3 align="center">Languages and Tools:</h3>
