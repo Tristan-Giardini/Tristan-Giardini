@@ -7,7 +7,7 @@
 
 - 👨‍💻 I’m currently working at HRVST as a Frontend Web Developer. Learn more about us here https://gohrvst.com/.
 
-- 💡 Right now I'm honing my **Liquid** skills and enjoying the **Shopify** environment
+- 💡 Right now I'm honing my **Liquid** skills and enjoying the **Shopify** environment.
 
 - 👨‍🎤 Fun fact **In my free time I like to make music in my home studio.**
 
