@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tristan Giardini</h1>
 <h3 align="center">A passionate full-stack developer from Montreal, QC</h3>
+<img src="[https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdevtechnosys.com%2Finsights%2Fpython-web-development-complete-guide%2F&psig=AOvVaw3tEMFZg9M9vZ714XXXfshT&ust=1704048866792000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCICumazqt4MDFQAAAAAdAAAAABAE)" alt="Dev gif" width="400" align="right">
 <br></br>
 <br></br>
 
