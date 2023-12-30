@@ -6,9 +6,9 @@
 
 - 👨‍💻 I’m currently working at HRVST as a Frontend Web Developer. Learn more about us here https://gohrvst.com/.
 
-- 💡 Right now I'm learning **Liquid** and getting familiar with **Shopify**
+- 💡 Right now I'm honing my **Liquid** skills and enjoying the **Shopify** 
 
-- 👨‍🎤 Fun fact **In my free time I like to make music in my home studio. Check out some of that here: https://rivalledenvy.bandcamp.com/**
+- 👨‍🎤 Fun fact **In my free time I like to make music in my home studio.**
 
 - 📫 How to reach me **tristangiardini@gmail.com** or **https://www.linkedin.com/in/tristangiardini/**
 
