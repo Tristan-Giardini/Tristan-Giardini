@@ -5,7 +5,7 @@
 <br></br>
 
 
-- 👨‍💻 I’m currently working at HRVST as a Frontend Web Developer. Learn more about us here https://gohrvst.com/.
+- 👨‍💻 I’m currently working freelance as a Full Stack Developer.
 
 - 💡 Right now I'm honing my **Liquid** skills and enjoying the **Shopify** environment.
 
