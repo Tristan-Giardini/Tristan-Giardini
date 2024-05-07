@@ -7,7 +7,7 @@
 
 - 👨‍💻 I’m currently working freelance as a Full Stack Developer.
 
-- 💡 Right now I'm honing my **Liquid** skills and enjoying the **Shopify** environment.
+- 💡 Right now I'm honing my **NextJS** skills and still enjoying the trusty **React** environment.
 
 - 👨‍🎤 Fun fact **In my free time I like to make music in my home studio.**
 
