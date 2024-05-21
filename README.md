@@ -9,6 +9,8 @@
 
 - 💡 Right now I'm honing my **NextJS** skills and still enjoying the trusty **React** environment.
 
+- 💼 View my online portfolio here **https://www.tristangiardini.com**
+
 - 👨‍🎤 Fun fact **In my free time I like to make music in my home studio.**
 
 - 📫 How to reach me **tristangiardini@gmail.com** or **https://www.linkedin.com/in/tristangiardini/**
