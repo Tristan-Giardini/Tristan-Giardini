@@ -5,7 +5,7 @@
 <br></br>
 
 
-- 👨‍💻 I’m currently working freelance as a Full Stack Developer.
+- 👨‍💻 I’m currently working freelance as a full-stack developer.
 
 - 💡 Right now I'm honing my **NextJS** skills while learning about **Sanity**.
 
