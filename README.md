@@ -5,15 +5,15 @@
 <br></br>
 
 
-- 👨‍💻 I’m currently working freelance as a full-stack developer.
+- 👨‍💻 I’m currently working freelance.
 
 - 💡 Right now I'm honing my **NextJS** skills while learning about **Sanity**.
 
-- 👨‍🎤 Fun fact **In my free time I like to make music in my home studio.**
+- 👨‍🎤 Fun fact: **In my free time I like to make music in my home studio.**
 
-- 💼 View my online portfolio here **https://www.tristangiardini.com**
+- 💼 View my online portfolio here: **https://www.tristangiardini.com**
 
-- 📫 How to reach me **tristangiardini@gmail.com** or **https://www.linkedin.com/in/tristangiardini/**
+- 📫 Reach me at **tristangiardini@gmail.com** or **https://www.linkedin.com/in/tristangiardini/**
 
 
 
