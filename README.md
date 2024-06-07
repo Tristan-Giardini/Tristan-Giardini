@@ -3,9 +3,6 @@
 <img src="https://devtechnosys.com/insights/wp-content/uploads/2020/10/web-development.gif" alt="Web Development" width="400" align="right">
 <br></br>
 <br></br>
-<br></br>
-
-
 - 👨‍💻 I’m currently working freelance.
 
 - 💡 Right now I'm honing my **NextJS** skills while learning about **Sanity**.
