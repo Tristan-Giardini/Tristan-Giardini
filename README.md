@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tristan Giardini</h1>
 <h3 align="center">A passionate full-stack developer from Montreal, QC</h3>
 <br></br>
-<img src="https://devtechnosys.com/insights/wp-content/uploads/2020/10/web-development.gif" alt="Web Development" width="400" align="right">
-<br></br>
-<br></br>
-<br></br>
-<br></br>
-
 - 👨‍💻 I’m currently working freelance.
 
 - 💡 Right now I'm honing my **NextJS** skills while learning about **Sanity**.
@@ -16,6 +10,12 @@
 - 💼 View my online portfolio here: **https://www.tristangiardini.com**
 
 - 📫 Reach me at **tristangiardini@gmail.com** or **https://www.linkedin.com/in/tristangiardini/**
+  
+<img src="https://devtechnosys.com/insights/wp-content/uploads/2020/10/web-development.gif" alt="Web Development" width="400" align="right">
+<br></br>
+<br></br>
+
+
 
 
 
