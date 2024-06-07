@@ -6,7 +6,6 @@
 <br></br>
 
 
-
 - 👨‍💻 I’m currently working freelance.
 
 - 💡 Right now I'm honing my **NextJS** skills while learning about **Sanity**.
