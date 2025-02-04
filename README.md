@@ -4,9 +4,9 @@
 <img src="https://devtechnosys.com/insights/wp-content/uploads/2020/10/web-development.gif" alt="Web Development" width="400" align="right">
 <br></br>
 
-- 👨‍💻 I’m currently working **freelance**.
+- 👨‍💻 I’m currently working as a **Cloud Developer** at **GURUS Solutions**.
 
-- 💡 Right now I'm honing my **NextJS** skills while learning about **Sanity**.
+- 💡 Independently I'm honing my **NextJS** and learning **Sanity**.
 
 - 👨‍🎤 Fun fact: **In my free time I like to make music in my home studio.**
 
